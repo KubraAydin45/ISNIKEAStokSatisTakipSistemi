@@ -63,6 +63,7 @@ En sağdaki tablomuz ise seçilen tarihe göre satılan ürünlerin bilgilerini 
 
 
 🛠️ Proje Yapısı
+
 DAL (Data Access Layer): Veritabanı işlemleri.
 
 BLL (Business Logic Layer): İş mantığı.
@@ -73,6 +74,7 @@ MySQL: Veritabanı bağlantı ve sorguları.
 
 
 🎯 Proje Hedefleri
+
 Operasyonel Dijitalleşme: Fabrika/mağaza stok ve satış süreçlerini kağıt ortamından kurtarıp dijitalleştirerek insan hatasını en aza indirmek.
 
 Hızlı Satış: Barkod sistemi entegrasyonu ile satış işlemlerini hızlandırmak.
@@ -85,10 +87,11 @@ Güvenli Veri Yönetimi: Yönetici ve personel yetkilendirmeleri ile sistem veri
 
 
 
-*Youtube Video*
+*Youtube Videom :*
 https://youtu.be/lQGn5CQyM5E
 
 📞 İletişim
+
 Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
 
 Ad: Kübra
