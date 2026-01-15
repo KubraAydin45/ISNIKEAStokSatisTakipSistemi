@@ -35,14 +35,16 @@ N-Katmanlı Mimari (DAL, BLL, UI)
 <img width="1253" height="901" alt="Ekran görüntüsü 2026-01-15 114533" src="https://github.com/user-attachments/assets/c6a88d52-879f-4528-afa5-ed1bb4f55995" />
 <img width="1368" height="824" alt="Ekran görüntüsü 2026-01-15 120124" src="https://github.com/user-attachments/assets/fed62cc1-72c9-45d8-8bc1-989c8e372694" />
 <img width="1351" height="823" alt="Ekran görüntüsü 2026-01-15 120132" src="https://github.com/user-attachments/assets/4d6421e1-11f1-4d7c-aa10-09494b90eafb" />
-Giriş kısmında girilen KullanıcıID numaaralarına göre açılan ekranlarda "Depo Yönetimi" bölümü görsellerde görüldüğü gibi işlemektedir. 
+
+Giriş kısmında girilen KullanıcıID numaralarına göre açılan ekranlarda "Depo Yönetimi" bölümü görsellerde görüldüğü gibi işlemektedir. 
 Ürün ekle, ürün listele, stok ekle, ürün sil, ürün güncelle işlemleri ile tabloya işlenen verilerin gösterimleri. 
 
 
 <img width="1258" height="910" alt="Ekran görüntüsü 2026-01-15 120203" src="https://github.com/user-attachments/assets/b68f47e2-7ba1-4527-8127-56db2936e7c7" />
 <img width="1005" height="746" alt="Ekran görüntüsü 2026-01-15 120308" src="https://github.com/user-attachments/assets/43209d21-2c26-47d0-8aae-aa32f64227cf" />
 <img width="1007" height="753" alt="Ekran görüntüsü 2026-01-15 120256" src="https://github.com/user-attachments/assets/900edd78-65f8-4189-9133-3ec0206adb48" />
-Giriş kısmında girilen KullanıcıID numaaralarına göre açılan ekranlarda "Satış Takip" bölümü görsellerde görüldüğü gibi işlemektedir. 
+
+Giriş kısmında girilen KullanıcıID numaralarına göre açılan ekranlarda "Satış Takip" bölümü görsellerde görüldüğü gibi işlemektedir. 
 En sağdaki tablodan gördüğümüz üzere olan stoklara soldaki panelden ürünlerimizi sepete ekleyip sağdaki işlem kısmından satışı gerçekleştirebiliriz.
 Satış sonrası stoklar güncellenmektedir.
 Yapılan satış sonrası satılan ürün bilgileri,elde edilen kazanç ve stok bilgileri ise "Ynetici" bölümüne aktarılmaktadır.
@@ -52,50 +54,12 @@ Yapılan satış sonrası satılan ürün bilgileri,elde edilen kazanç ve stok 
 <img width="971" height="744" alt="Ekran görüntüsü 2026-01-15 120414" src="https://github.com/user-attachments/assets/f687032f-cd27-40b2-8b16-bef6c19dcf02" />
 <img width="979" height="747" alt="Ekran görüntüsü 2026-01-15 120428" src="https://github.com/user-attachments/assets/73220168-fd4e-4d01-bf44-b93dc6fc7ebc" />
 <img width="697" height="704" alt="image" src="https://github.com/user-attachments/assets/5a46457d-5c7e-446f-9690-9d193dc608b8" />
-Giriş kısmında girilen KullanıcıID numaaralarına göre açılan ekranlarda "Yönetici" bölümü görsellerde görüldüğü gibi işlemektedir.
+
+Giriş kısmında girilen KullanıcıID numaralarına göre açılan ekranlarda "Yönetici" bölümü görsellerde görüldüğü gibi işlemektedir.
 Satış Takip bölümünde yapılan işlemlerin bilgileri Yöneticiye aktarılır.
 Gün olarak raporlanan sistemimiz tarih değiştikçe verilerini de o günkü tarihe göre değiştirmektedir.
 Raporlama ekranında aynı zamanda günlük ciro , günlük kar , stokta mevcudiyet gösteren ürünler, stoğu kritik ürünler ve artık stokta bulunmayan ürünlerde listelenmektedir.
 En sağdaki tablomuz ise seçilen tarihe göre satılan ürünlerin bilgilerini bize aktarmaktadır.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 🛠️ Proje Yapısı
@@ -106,6 +70,7 @@ BLL (Business Logic Layer): İş mantığı.
 UI (User Interface): Windows Forms kullanıcı arayüzü.
 
 MySQL: Veritabanı bağlantı ve sorguları.
+
 
 🎯 Proje Hedefleri
 Operasyonel Dijitalleşme: Fabrika/mağaza stok ve satış süreçlerini kağıt ortamından kurtarıp dijitalleştirerek insan hatasını en aza indirmek.
