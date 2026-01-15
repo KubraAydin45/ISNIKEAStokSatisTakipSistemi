@@ -25,7 +25,8 @@ N-Katmanlı Mimari (DAL, BLL, UI)
 Entity Design Pattern
 
 DİYAGRAM
-![Uploading Diyagram-1.png…]()
+<img width="738" height="676" alt="Diyagram-1" src="https://github.com/user-attachments/assets/86a49f9e-7900-4789-91ed-c754b2fd2609" />
+
 
 
 📸 Ekran Görüntüleri
