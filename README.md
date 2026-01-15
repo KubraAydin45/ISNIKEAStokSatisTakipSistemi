@@ -25,11 +25,15 @@ MySQL: Veritabanı bağlantı ve sorguları.
 
 🎯 Proje Hedefleri
 Operasyonel Dijitalleşme: Fabrika/mağaza stok ve satış süreçlerini kağıt ortamından kurtarıp dijitalleştirerek insan hatasını en aza indirmek.
-
 Hızlı Satış: Barkod sistemi entegrasyonu ile satış işlemlerini hızlandırmak.
-
 Etkin Stok Yönetimi: Anlık stok takibi ve kritik stok uyarıları ile gereksiz stok maliyetlerini veya ürün yokluğunu önlemek.
-
 Finansal Analiz: Günlük satış raporları ile işletmenin kâr-zarar durumunu anlık olarak analiz etmek.
-
 Güvenli Veri Yönetimi: Yönetici ve personel yetkilendirmeleri ile sistem verilerinin güvenliğini ve kontrollü erişimini sağlamak.
+
+
+📞 İletişim
+Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
+
+Ad: Kübra
+Soyad: Aydın
+E-posta: kaydiin1905@gmail.com
