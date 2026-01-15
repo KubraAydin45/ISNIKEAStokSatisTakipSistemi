@@ -24,6 +24,10 @@ N-Katmanlı Mimari (DAL, BLL, UI)
 
 Entity Design Pattern
 
+DİYAGRAM
+![Uploading Diyagram-1.png…]()
+
+
 
 🛠️ Proje Yapısı
 DAL (Data Access Layer): Veritabanı işlemleri.
