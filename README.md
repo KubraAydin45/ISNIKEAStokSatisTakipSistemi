@@ -3,6 +3,7 @@
 Fabrika/mağaza stok ve satış işlemlerini yöneten bir masaüstü uygulamasıdır. Bu proje, yöneticilerin ve personelin ürün takibini, anlık satış işlemlerini, stok durumlarını ve finansal raporlamayı kolaylıkla yönetebileceği bir platform sunar.
 
 📌*Proje Özellikleri*
+
 Giriş ve Yetkilendirme: Kullanıcı girişi ve yönetici/personel yetki kontrolü.
 
 Ürün Yönetimi: Sisteme yeni ürün ekleme, fiyat güncelleme ve silme işlemleri.
@@ -51,7 +52,6 @@ Yapılan satış sonrası satılan ürün bilgileri,elde edilen kazanç ve stok 
 <img width="968" height="726" alt="Ekran görüntüsü 2026-01-15 120345" src="https://github.com/user-attachments/assets/bf8d772b-8fba-4852-b06e-0eb3e24d5a5d" />
 <img width="971" height="744" alt="Ekran görüntüsü 2026-01-15 120414" src="https://github.com/user-attachments/assets/f687032f-cd27-40b2-8b16-bef6c19dcf02" />
 <img width="979" height="747" alt="Ekran görüntüsü 2026-01-15 120428" src="https://github.com/user-attachments/assets/73220168-fd4e-4d01-bf44-b93dc6fc7ebc" />
-<img width="968" height="726" alt="Ekran görüntüsü 2026-01-15 120345" src="https://github.com/user-attachments/assets/edf34ca8-e3b6-43cc-997e-9b24ea21af44" />
 <img width="697" height="704" alt="image" src="https://github.com/user-attachments/assets/5a46457d-5c7e-446f-9690-9d193dc608b8" />
 Giriş kısmında girilen KullanıcıID numaaralarına göre açılan ekranlarda "Yönetici" bölümü görsellerde görüldüğü gibi işlemektedir.
 Satış Takip bölümünde yapılan işlemlerin bilgileri Yöneticiye aktarılır.
