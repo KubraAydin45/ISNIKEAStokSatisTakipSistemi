@@ -95,5 +95,7 @@ https://youtu.be/lQGn5CQyM5E
 Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:
 
 Ad: Kübra
+
 Soyad: Aydın
+
 E-posta: kaydiin1905@gmail.com
