@@ -24,7 +24,6 @@ MySQL (Veritabanı)
 
 N-Katmanlı Mimari (DAL, BLL, UI)
 
-Entity Design Pattern
 
 *DİYAGRAM*
 
